@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PFlowLibFull/PFlowLibFull.iml" filepath="$PROJECT_DIR$/../PFlowLibFull/PFlowLibFull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PflowforDigitalCity.iml" filepath="$PROJECT_DIR$/PflowforDigitalCity.iml" />
+    </modules>
+  </component>
+</project>
